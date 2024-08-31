@@ -8,4 +8,4 @@
 <li>💻 currently honing my skill in <b>computer science</b></li>
 </ul>
 
-#### You can check out my Linkedin profile [here](https://www.linkedin.com/in/polikarpus-arya-pradhanika-2133b5256/)
+#### You can check out my Linkedin profile [here](https://www.linkedin.com/in/polikarpus-arya-pradhanika/)
