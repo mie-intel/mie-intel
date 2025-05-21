@@ -22,3 +22,7 @@
 [![](https://visitcount.itsvg.in/api?id=mie-intel&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img  src="https://github.com/{your username}/contribution-cal-snake/blob/master/animation/snake.gif"
+       alt="snake" />
+</div>
