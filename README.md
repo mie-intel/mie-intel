@@ -23,6 +23,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
-  <img  src="https://github.com/{your username}/contribution-cal-snake/blob/master/animation/snake.gif"
+  <img  src="https://github.com/mie-intel/contribution-cal-snake/blob/master/animation/snake.gif"
        alt="snake" />
 </div>
