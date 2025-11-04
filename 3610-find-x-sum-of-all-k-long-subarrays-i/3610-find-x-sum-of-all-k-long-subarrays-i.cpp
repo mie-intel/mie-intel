@@ -27,8 +27,7 @@ public:
     vector<int> findXSum(vector<int>& nums, int k, int x) {
         vector <int> res;
         for(int i = 0; i + k - 1 < nums.size(); ++i){
-            vector <int> nn = vector <int> (nums.begin()+i, nums.begin() + i + k);
-            res.push_back(sum(nn, x));
+            res.push_back(sum(vector <int> (nums.begin()+i, nums.begin() + i + k), x));
         }
         return res;
     }
