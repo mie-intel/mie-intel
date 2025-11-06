@@ -79,4 +79,8 @@
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/mie-intel/mie-intel/tree/master/3863-power-grid-maintenance) |
+## Math
+|  |
+| ------- |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/mie-intel/mie-intel/tree/master/1817-calculate-money-in-leetcode-bank) |
 <!---LeetCode Topics End-->
