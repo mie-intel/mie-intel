@@ -1,6 +1,6 @@
 # 💫 Hi! I'm Polikarpus Arya Pradhanika
 
-🔭 I'm currently working as Head of IT at @itppsmb <br>🔥 I was the Head of Website at @itporsenigama
+🔭 I was the Head of IT at @itppsmb and the Head of Website at @itporsenigama
 
 ## 🌐 Socials:
 
