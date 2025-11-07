@@ -41,7 +41,6 @@ public:
                 rr = m - 1;
             }
         }
-        // cek(pref, n, 5, r, k);
         return ans;
     }
 };
