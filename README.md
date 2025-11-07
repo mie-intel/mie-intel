@@ -39,6 +39,7 @@
 ## Array
 |  |
 | ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/mie-intel/mie-intel/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/mie-intel/mie-intel/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mie-intel/mie-intel/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/mie-intel/mie-intel/tree/master/3863-power-grid-maintenance) |
@@ -51,6 +52,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/mie-intel/mie-intel/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/mie-intel/mie-intel/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mie-intel/mie-intel/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
@@ -83,4 +85,20 @@
 |  |
 | ------- |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/mie-intel/mie-intel/tree/master/1817-calculate-money-in-leetcode-bank) |
+## Binary Search
+|  |
+| ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/mie-intel/mie-intel/tree/master/2618-maximize-the-minimum-powered-city) |
+## Greedy
+|  |
+| ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/mie-intel/mie-intel/tree/master/2618-maximize-the-minimum-powered-city) |
+## Queue
+|  |
+| ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/mie-intel/mie-intel/tree/master/2618-maximize-the-minimum-powered-city) |
+## Prefix Sum
+|  |
+| ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/mie-intel/mie-intel/tree/master/2618-maximize-the-minimum-powered-city) |
 <!---LeetCode Topics End-->
