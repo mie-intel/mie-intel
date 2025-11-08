@@ -101,4 +101,16 @@
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/mie-intel/mie-intel/tree/master/2618-maximize-the-minimum-powered-city) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mie-intel/mie-intel/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mie-intel/mie-intel/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Memoization
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mie-intel/mie-intel/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
