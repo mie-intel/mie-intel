@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/mie-intel/mie-intel/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/mie-intel/mie-intel/tree/master/2288-count-operations-to-obtain-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,4 +114,8 @@
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mie-intel/mie-intel/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/mie-intel/mie-intel/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
