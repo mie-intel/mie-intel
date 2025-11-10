@@ -20,10 +20,7 @@ public:
                 if((st.empty() || st.top() < p) && p != 0) st.push(p);
             }
         }
-        while(!st.empty()){
-            st.pop();
-            ans++;
-        }
+        ans += st.size();
         return ans;
     }
 };
