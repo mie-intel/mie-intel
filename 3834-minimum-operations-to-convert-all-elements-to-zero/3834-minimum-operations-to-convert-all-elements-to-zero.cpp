@@ -8,17 +8,11 @@ public:
                 if(p != 0) st.push(p);
                 continue;
             }
-            if(st.top() == p) continue;
-            if(st.top() < p){
-                st.push(p);
+            while(!st.empty() && st.top() > p){
+                st.pop();
+                ans++;
             }
-            else{
-                while(!st.empty() && st.top() > p){
-                    st.pop();
-                    ans++;
-                }
-                if((st.empty() || st.top() < p) && p != 0) st.push(p);
-            }
+            if((st.empty() || st.top() < p) && p != 0) st.push(p);
         }
         ans += st.size();
         return ans;
