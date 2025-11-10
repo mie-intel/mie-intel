@@ -4,10 +4,6 @@ public:
         stack <int> st;
         int ans = 0;
         for(auto p : nums){
-            if(st.empty()){
-                if(p != 0) st.push(p);
-                continue;
-            }
             while(!st.empty() && st.top() > p){
                 st.pop();
                 ans++;
