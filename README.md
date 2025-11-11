@@ -39,6 +39,7 @@
 ## Array
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/mie-intel/mie-intel/tree/master/0474-ones-and-zeroes) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/mie-intel/mie-intel/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/mie-intel/mie-intel/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mie-intel/mie-intel/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -108,6 +109,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/mie-intel/mie-intel/tree/master/0474-ones-and-zeroes) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/mie-intel/mie-intel/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Bit Manipulation
 |  |
@@ -129,4 +131,8 @@
 |  |
 | ------- |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mie-intel/mie-intel/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## String
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/mie-intel/mie-intel/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
