@@ -1,4 +1,4 @@
-int gcd(int a, int b){
+inline int gcd(int a, int b){
     if(b == 0) return a;
     return gcd(b, a % b);
 }
@@ -40,7 +40,6 @@ public:
                 l = m + 1;
             }
         }
-        cout << "SMALLEST " << ans << '\n';
         return (ans == INT_MAX ? -1 : ans + n - 2);
     }
 };
