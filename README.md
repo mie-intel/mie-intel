@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/mie-intel/mie-intel/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mie-intel/mie-intel/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/mie-intel/mie-intel/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Queue
 |  |
@@ -137,8 +138,13 @@
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/mie-intel/mie-intel/tree/master/0474-ones-and-zeroes) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mie-intel/mie-intel/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Number Theory
 |  |
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/mie-intel/mie-intel/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+## Counting
+|  |
+| ------- |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mie-intel/mie-intel/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 <!---LeetCode Topics End-->
