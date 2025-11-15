@@ -7,9 +7,6 @@ public:
         int n = s.length();
         pref[0] = 0;
         for(int i = 0; i < n; ++i) pref[i+1] = pref[i] + (s[i] == '1');
-        for(int i = 0; i < n; ++i){
-            cout << pref[i] << " \n"[i==n-1];
-        }
         int ans = 0;
         for(int i = 0; i < n; ++i){
             int one = 0;
