@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/mie-intel/mie-intel/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/mie-intel/mie-intel/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/mie-intel/mie-intel/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/mie-intel/mie-intel/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/mie-intel/mie-intel/tree/master/0474-ones-and-zeroes) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/mie-intel/mie-intel/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mie-intel/mie-intel/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Number Theory
 |  |
@@ -153,4 +155,8 @@
 |  |
 | ------- |
 | [2625-increment-submatrices-by-one](https://github.com/mie-intel/mie-intel/tree/master/2625-increment-submatrices-by-one) |
+## Enumeration
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/mie-intel/mie-intel/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 <!---LeetCode Topics End-->
