@@ -4,6 +4,7 @@ public:
     int pref[maxn];
     // buat ukuran 1 - sqrt(N), cek occurences substringnya berapa
     int numberOfSubstrings(string s) {
+        ios_base::sync_with_stdio(0);
         int n = s.length();
         pref[0] = 0;
         for(int i = 0; i < n; ++i) pref[i+1] = pref[i] + (s[i] == '1');
