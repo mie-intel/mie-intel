@@ -90,6 +90,7 @@
 ## Math
 |  |
 | ------- |
+| [1636-number-of-substrings-with-only-1s](https://github.com/mie-intel/mie-intel/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/mie-intel/mie-intel/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mie-intel/mie-intel/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/mie-intel/mie-intel/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/mie-intel/mie-intel/tree/master/0474-ones-and-zeroes) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/mie-intel/mie-intel/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/mie-intel/mie-intel/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/mie-intel/mie-intel/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Number Theory
