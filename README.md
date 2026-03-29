@@ -33,33 +33,3 @@
   <img  src="./github-user-contribution.svg"
        alt="snake" />
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2054-two-best-non-overlapping-events](https://github.com/mie-intel/mie-intel/tree/master/2054-two-best-non-overlapping-events) |
-| [3074-apple-redistribution-into-boxes](https://github.com/mie-intel/mie-intel/tree/master/3074-apple-redistribution-into-boxes) |
-## Binary Search
-|  |
-| ------- |
-| [2054-two-best-non-overlapping-events](https://github.com/mie-intel/mie-intel/tree/master/2054-two-best-non-overlapping-events) |
-## Dynamic Programming
-|  |
-| ------- |
-| [2054-two-best-non-overlapping-events](https://github.com/mie-intel/mie-intel/tree/master/2054-two-best-non-overlapping-events) |
-## Sorting
-|  |
-| ------- |
-| [2054-two-best-non-overlapping-events](https://github.com/mie-intel/mie-intel/tree/master/2054-two-best-non-overlapping-events) |
-| [3074-apple-redistribution-into-boxes](https://github.com/mie-intel/mie-intel/tree/master/3074-apple-redistribution-into-boxes) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [2054-two-best-non-overlapping-events](https://github.com/mie-intel/mie-intel/tree/master/2054-two-best-non-overlapping-events) |
-## Greedy
-|  |
-| ------- |
-| [3074-apple-redistribution-into-boxes](https://github.com/mie-intel/mie-intel/tree/master/3074-apple-redistribution-into-boxes) |
-<!---LeetCode Topics End-->
