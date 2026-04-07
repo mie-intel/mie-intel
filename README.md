@@ -4,7 +4,8 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paryapradhanika) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/polikarpus-arya-pradhanika)
+[![Static Badge](https://img.shields.io/badge/website-blue?logo=nextdotjs&labelColor=blue)](https://paryapradhanika.my.id)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paryapradhanika) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paryapradhanika)
 
 # 💻 Tech Stack:
 
